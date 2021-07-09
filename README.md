@@ -1,4 +1,6 @@
 # LatitudeLongitudeStamper
+**Note: Processed images are sent to the "Uploaded" directory.**
+
 Extensions required to run: gd, mbstring, exif
 
 -- For UNIX-based Operating Systems, run the following on a terminal: 
