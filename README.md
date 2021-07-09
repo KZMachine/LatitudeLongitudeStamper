@@ -13,4 +13,4 @@ Extensions required to run the program: gd, mbstring, exif
 
 To run the program, use an IDE that runs PHP code or type the following command into your terminal while in the right directory:
 
--- php AddInfoStamp.php
+      php AddInfoStamp.php
