@@ -12,4 +12,5 @@ Extensions required to run the program: gd, mbstring, exif
      Locate php.ini in your PHP directory [In most cases, this will be in your C: Drive] then find and uncomment (remove the semicolons ;) the following: ";extension=gd", ";extension=mbstring", and ";extension=exif".
 
 To run the program, use an IDE that runs PHP code or type the following command into your terminal while in the right directory:
+
 -- php AddInfoStamp.php
